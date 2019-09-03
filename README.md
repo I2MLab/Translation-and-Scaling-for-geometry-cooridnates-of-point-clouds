@@ -1,1 +1,1 @@
-# Translation-and-Scaling-for-geometry-cooridnates-of-point-clouds
+# Translation-and-Scaling-for-geometry-coordinates-of-point-clouds
