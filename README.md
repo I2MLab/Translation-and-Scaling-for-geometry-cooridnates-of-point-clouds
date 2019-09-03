@@ -1,1 +1,3 @@
 # Translation-and-Scaling-for-geometry-coordinates-of-point-clouds
+
+This code is used for translating and scaling the geometry coordinates of the point clouds. Usually, the point clouds generated from the multi-view images or converted from the 3D mesh have the non-integer geometry coordinates.  However, some point cloud compression algorithms require the geometry coordinates being integer. Thus, in order to make the point clouds can be compressed, we develop this code, which can translate the point cloud model to the origin (0,0,0), and scale the geometry coordinate from the floating type to integer type. 
